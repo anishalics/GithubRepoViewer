@@ -20,5 +20,6 @@ This project demonstrates effective use of Retrofit, Gson, and RecyclerView for 
 
 
 # Application View
-![github_bannner](https://github.com/user-attachments/assets/e3b75ad2-acc5-45a8-9472-cae9e1e3d3aa)
+![Application View](https://github.com/user-attachments/assets/556b0322-2fa9-49b6-b2af-284ceba3fcff)
+
 
